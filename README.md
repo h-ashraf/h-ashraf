@@ -5,8 +5,8 @@
 I am a passionate developer with interests in web development, AI, and open source. Connect with me on my social media platforms.
 
 ### Connect with me:
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile)
-- [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/your-profile)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hamad-ashraf/)
+- [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://x.com/ItzHAMAD)
 - [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/h-ashraf)
 
 
