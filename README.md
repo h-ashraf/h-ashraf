@@ -1,7 +1,5 @@
 # Hi there, I'm H. Ashraf! 👋
 
-![Header Image](https://your-image-link-here) <!-- Replace with your header image link -->
-
 ## About Me
 
 I am a passionate developer with interests in web development, AI, and open source. Connect with me on my social media platforms.
@@ -17,7 +15,6 @@ I am a passionate developer with interests in web development, AI, and open sour
 
 ![H. Ashraf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=h-ashraf&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=h-ashraf&layout=compact&theme=radical)
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username&theme=radical) <!-- Replace with your Wakatime username -->
 
 ## 🛠️ Badges
 
@@ -27,10 +24,3 @@ I am a passionate developer with interests in web development, AI, and open sour
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-
-## 📌 Pinned Repositories
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=h-ashraf&repo=your-best-repo&theme=radical)](https://github.com/h-ashraf/ToDoList)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=h-ashraf&repo=your-second-best-repo&theme=radical)](https://github.com/h-ashraf/Crypto)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=h-ashraf&repo=your-second-best-repo&theme=radical)](https://github.com/h-ashraf/Quotes-App)
